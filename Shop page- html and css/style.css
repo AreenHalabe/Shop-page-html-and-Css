@@ -176,7 +176,7 @@ body {
 .topnav #myLinks 
 {
   display: none;
-  margin-right:-1%;
+  margin-right:100%;
   padding:0.5px;
 }
 
